@@ -5,8 +5,8 @@ import sys
 import json
 
 #Access Token and Access Token Secret of Twitter API (apps)
-access_token = "298785729-0kXfAarOFfx7XvraFTYaXYXQQqGEZzQX0kxWaqX5"
-access_token_secret = "lcv1XHrWy3FglHTSujF0nFpdNCo9y1WssXbcF5PW4D1Fn"
+access_token = ""
+access_token_secret = ""
 
 if __name__ == '__main__':
 
